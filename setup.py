@@ -11,9 +11,9 @@ setup(
     version='0.0.1',
     description='Short description',
     long_description=''.join(open('README.rst').readlines()),
-    keywords='some, keywords',
-    author='yourname',
-    author_email='yourmail',
+    keywords='pic, plasma',
+    author='Oleh Horbachov',
+    author_email='gorbyo@gmail.com',
     license='GPLv2',
     packages=find_packages(),
     classifiers=[
